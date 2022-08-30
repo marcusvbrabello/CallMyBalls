@@ -10,11 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
     "react": "18.0.0",
     "react-native": "0.69.5",
     "react-native-call-detection": "^1.9.0",
     "react-native-communications": "^2.2.1",
-    "react-native-sms": "^1.11.0"
+    "react-native-sms": "^1.11.0",
+    "react-redux": "^8.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
